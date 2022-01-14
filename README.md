@@ -1,5 +1,7 @@
 👋 Hi, I’m Robert N. Winter
+
 👀 I’m a Philosopher and historian by training, Product Manager by pay cheque, and a doctoral candidate at [Macquarie University](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/business/our-departments/department-of-management) researching Edmund Burke on authority and the implications for leadership.
+
 📫 How to reach me:
   * Email: [hello@robert.winter.ink](mailto:hello@robert.winter.ink)
   * Mastodon: [@robert](https://social.winter.ink/@robert)
