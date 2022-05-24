@@ -1,11 +1,13 @@
-👋 Hi, I’m Robert N. Winter
+👋 Hi, I’m Dr Robert N. Winter
 
-👀 I’m a Philosopher and historian by training, Product Manager by pay cheque, and a doctoral candidate at [Macquarie University](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/business/our-departments/department-of-management) researching Edmund Burke on authority and the implications for leadership.
+👀 A trained historian and philosopher, I apply these disciplines to organisational and information technology research, informing my leadership of teams at the nexus of strategic management and program delivery. At present, I am enabling Standards Australia to achieve their organisational goals through a series of digital transformation projects.
+
+I have fifteen years’ experience managing concurrent project streams, with responsibility for operational and strategic excellence. My focus is on driving organisational efficiency, transparency, and effectiveness – delivering successful program management solutions across Customer Success, Publishing Operations, International Engagement, eCommerce, Sales, and Marketing. I have a solid record of taking over troubled programs / projects, developing new delivery plans, and leading teams to the successful attainment of organisational goals.
 
 📫 How to reach me:
   * Email: [hello@robert.winter.ink](mailto:hello@robert.winter.ink)
   * Mastodon: [@robert](https://social.winter.ink/@robert)
-  * Twitter [@robert_winter](https://twitter.com/robert_winter/)
+  * Twitter [@DrRobertWinter](https://twitter.com/DrRobertWinter/)
 
 ## Supporting Research
 
