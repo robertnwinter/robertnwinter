@@ -9,6 +9,7 @@ I have fifteen years’ experience managing concurrent project streams, with res
   * Email: [hello@robert.winter.ink](mailto:hello@robert.winter.ink)
   * Mastodon: [@robert](https://social.winter.ink/@robert)
   * Twitter [@DrRobertWinter](https://twitter.com/DrRobertWinter/)
+  * Matrix: [@robert-winter](https://matrix.to/#/@robert-winter:matrix.org)
 
 ## Supporting Research
 
