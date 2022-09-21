@@ -5,6 +5,7 @@
 I have fifteen years’ experience managing concurrent project streams, with responsibility for operational and strategic excellence. My focus is on driving organisational efficiency, transparency, and effectiveness – delivering successful program management solutions across Customer Success, Publishing Operations, International Engagement, eCommerce, Sales, and Marketing. I have a solid record of taking over troubled programs / projects, developing new delivery plans, and leading teams to the successful attainment of organisational goals.
 
 📫 How to reach me:
+  * Blog: [https://robert.winter.ink](https://robert.winter.ink)
   * Email: [hello@robert.winter.ink](mailto:hello@robert.winter.ink)
   * Mastodon: [@robert](https://social.winter.ink/@robert)
   * Twitter [@DrRobertWinter](https://twitter.com/DrRobertWinter/)
