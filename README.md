@@ -18,7 +18,7 @@ Reward comes from the not infrequent critical feedback and words of praise. All 
 
 If I may ask one thing, it is that you reach out and let me know what you think about the content. Either via email or the social media platforms listed above.
 
-That said — donations are gratefully accepted and faithfully applied to the ongoing maintenance expenses. Should you be so inclined, you can donate with one of the following services:
+That said — donations are gratefully received and faithfully applied to the ongoing maintenance expenses. Should you be so inclined, you can donate with one of the following services:
 
 * [Liberapay](https://liberapay.com/robertwinter/)
 * [Buy Me A Coffee](https://www.buymeacoffee.com/robertwinter)
